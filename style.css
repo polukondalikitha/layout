@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+article{
+    background-image: url(hero.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 120px;
+    padding-bottom: 120px;
+    color: white;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+
+}
+h1{
+    color: whitesmoke;
+}
+.text{
+    margin-top: 10px;
+    }
+button{
+    margin-top: 20px;
+    padding: 3px;
+    border-radius: 7px;
+    background-color: orange;
+
+}
+.asidtext{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+h2{
+    margin-bottom: 20px;
+}
